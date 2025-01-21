@@ -5,6 +5,7 @@ Created on Mon Jan 20 16:05:15 2025
 @author: andre
 """
 import sklearn
+
 import numpy as np
 import pickle
 import streamlit as st
